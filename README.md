@@ -1,6 +1,6 @@
 面白いサッカーゲーム、独創的なラウンド制の対戦方法、遊び方が面白い、早く体験してみよう！
 
-![image](https://github.com/worldfootballplay/worldcupfootball/blob/master/app.png)
+![image](https://github.com/footballcoach/footballworld/blob/master/app.png)
 
 Framework
 
